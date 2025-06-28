@@ -4,6 +4,11 @@
 	(generator_version "9.0")
 	(uuid "acbdb838-9ff9-49b9-b520-02026937e237")
 	(paper "A2")
+	(title_block
+		(title "STuW81300 TEST BOARD")
+		(date "2025-06-28")
+		(company "Max Xiang")
+	)
 	(lib_symbols
 		(symbol "0thaumatichthyslib:AVA-183A+"
 			(exclude_from_sim no)
